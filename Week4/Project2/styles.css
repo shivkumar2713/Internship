@@ -1,0 +1,25 @@
+/* Styles for form */
+#addBookForm {
+    margin-bottom: 20px;
+}
+
+#addBookForm input[type="text"],
+#addBookForm input[type="number"],
+#addBookForm button {
+    margin-right: 10px;
+}
+
+/* Styles for search input field */
+#searchInput {
+    margin-bottom: 20px;
+}
+
+/* Styles for book display area */
+#bookList {
+    margin-bottom: 20px;
+}
+
+/* Styles for message when no results found */
+#noResultsMessage {
+    color: red;
+}
